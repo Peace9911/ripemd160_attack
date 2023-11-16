@@ -1,1 +1,1 @@
-This project primarily showcases the differential paths for searching collision attacks  and SFS collision attacks on RIPEMD160.
+This project primarily demonstrates the search for differential characteristics in collision attacks and SFS collision attacks using a SAT/SMT-based method.
