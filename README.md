@@ -1,1 +1,1 @@
-This project primarily showcases the differential paths for searching collision attacks on RIPEMD160 and SFS collision attacks.
+This project primarily showcases the differential paths for searching collision attacks  and SFS collision attacks on RIPEMD160.
